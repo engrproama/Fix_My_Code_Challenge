@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` file for the `Fix_My_Code_Challenge` repository:
-
----
-
 # Fix_My_Code_Challenge
 
 Welcome to the **Fix My Code Challenge** repository! This project is designed to test and improve your debugging skills by providing you with code that contains bugs. Your mission is to find and fix these issues.
@@ -113,7 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or need further clarification, feel free to reach out to the repository owner or open an issue.
 
 Happy coding and debugging!
-
----
-
-This `README.md` file provides a comprehensive overview of the project, guiding users on how to navigate, fix, and test the provided code.
